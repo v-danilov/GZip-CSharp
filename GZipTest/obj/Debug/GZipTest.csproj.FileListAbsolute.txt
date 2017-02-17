@@ -1,0 +1,27 @@
+c:\users\vadim\documents\visual studio 2015\Projects\GZipTest\GZipTest\bin\Debug\GZipTest.exe.config
+c:\users\vadim\documents\visual studio 2015\Projects\GZipTest\GZipTest\bin\Debug\GZipTest.exe
+c:\users\vadim\documents\visual studio 2015\Projects\GZipTest\GZipTest\bin\Debug\GZipTest.pdb
+c:\users\vadim\documents\visual studio 2015\Projects\GZipTest\GZipTest\obj\Debug\GZipTest.exe
+c:\users\vadim\documents\visual studio 2015\Projects\GZipTest\GZipTest\obj\Debug\GZipTest.pdb
+C:\Users\Vadim\documents\visual studio 2015\Projects\GZipTest\GZipTest\obj\Debug\GZipTest.csprojResolveAssemblyReference.cache
+L:\GZipTest\GZipTest\bin\Debug\GZipTest.exe.config
+L:\GZipTest\GZipTest\obj\Debug\GZipTest.exe
+L:\GZipTest\GZipTest\obj\Debug\GZipTest.pdb
+L:\GZipTest\GZipTest\obj\Debug\GZipTest.csprojResolveAssemblyReference.cache
+L:\GZipTest\GZipTest\bin\Debug\GZipTest.exe
+L:\GZipTest\GZipTest\bin\Debug\GZipTest.pdb
+D:\GZipTest\GZipTest\bin\Debug\GZipTest.exe.config
+D:\GZipTest\GZipTest\obj\Debug\GZipTest.exe
+D:\GZipTest\GZipTest\obj\Debug\GZipTest.pdb
+D:\GZipTest\GZipTest\bin\Debug\GZipTest.exe
+D:\GZipTest\GZipTest\bin\Debug\GZipTest.pdb
+D:\GZipTest\GZipTest\obj\Debug\GZipTest.csprojResolveAssemblyReference.cache
+C:\Users\Bounc\Desktop\GZipTest\GZipTest\bin\Debug\GZipTest.exe.config
+C:\Users\Bounc\Desktop\GZipTest\GZipTest\obj\Debug\GZipTest.exe
+C:\Users\Bounc\Desktop\GZipTest\GZipTest\obj\Debug\GZipTest.pdb
+C:\Users\Bounc\Desktop\GZipTest\GZipTest\bin\Debug\GZipTest.exe
+C:\Users\Bounc\Desktop\GZipTest\GZipTest\bin\Debug\GZipTest.pdb
+C:\Users\Bounc\Desktop\GZipTest\GZipTest\obj\Debug\GZipTest.csprojResolveAssemblyReference.cache
+C:\Users\Bounc\Desktop\Veeam\GZipTest\GZipTest\bin\Debug\GZipTest.exe.config
+C:\Users\Bounc\Desktop\Veeam\GZipTest\GZipTest\obj\Debug\GZipTest.exe
+C:\Users\Bounc\Desktop\Veeam\GZipTest\GZipTest\obj\Debug\GZipTest.pdb
